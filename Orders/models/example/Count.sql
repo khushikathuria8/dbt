@@ -1,0 +1,1 @@
+select * froom order1;
